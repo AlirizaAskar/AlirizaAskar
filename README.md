@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliriza Askar</h1>
 
 
-<h3 align="left">Connect with me:aliriza.askar64@gmail.com</h3>
+<h3 align="left">Connect with me: aliriza.askar64@gmail.com</h3>
 <p align="left">
 </p>
 
